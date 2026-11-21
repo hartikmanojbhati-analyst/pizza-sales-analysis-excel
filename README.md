@@ -221,7 +221,7 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Hartik Manoj Bhati**
+**Bhati Hartik Manoj**
 
 B.Tech Computer Science & Engineering | Cyber Security
 
